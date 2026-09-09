@@ -1,0 +1,11 @@
+level_type,item_id,item_name,Category,Subcategory,gross_profit_change,revenue_change,gross_margin_change_ppt,growth_quality_tier
+Product,561,"Touring-1000 Yellow, 46",Bikes,Touring Bikes,-39546.9525,41959.632,-0.9424999842705961,Tier 3 - Value-destructive growth
+Product,327,"Road-650 Red, 44",Bikes,Road Bikes,-34018.2681,415698.6303,1.8149898866461713,Other Special Case
+Product,368,"Road-250 Red, 44",Bikes,Road Bikes,-28806.3832,718436.5256,0.008869462693939687,Other Special Case
+Product,323,"Road-650 Red, 60",Bikes,Road Bikes,-22736.5565,426006.9287,0.0217922260510636,Other Special Case
+Product,369,"Road-250 Red, 48",Bikes,Road Bikes,-22223.7505,592884.7415,-0.001353543987826182,Tier 3 - Value-destructive growth
+Product,564,"Touring-1000 Yellow, 60",Bikes,Touring Bikes,-19413.9585,20598.3648,-0.9424999842705961,Tier 3 - Value-destructive growth
+Product,562,"Touring-1000 Yellow, 50",Bikes,Touring Bikes,-18694.923,19835.4624,-0.9424999842705961,Tier 3 - Value-destructive growth
+Product,325,"Road-650 Red, 62",Bikes,Road Bikes,-18193.4909,396480.5323,0.0007288344045509662,Other Special Case
+Product,343,"Road-650 Black, 52",Bikes,Road Bikes,-17197.4494,400396.8134,0.04661274040650178,Other Special Case
+Product,370,"Road-250 Red, 52",Bikes,Road Bikes,-16360.684,454463.1,0.0,Other Special Case

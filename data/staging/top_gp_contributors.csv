@@ -1,0 +1,11 @@
+level_type,item_id,item_name,Category,Subcategory,gross_profit_change,revenue_change,gross_margin_change_ppt,growth_quality_tier
+Product,358,"Mountain-200 Black, 38",Bikes,Mountain Bikes,91706.5059,919958.1959,-0.0008174637017584378,Tier 2 - Margin-dilutive growth
+Product,360,"Mountain-200 Black, 42",Bikes,Mountain Bikes,80651.0869,822649.5969,0.006313045321274514,Tier 1 - High-quality growth
+Product,352,"Mountain-200 Silver, 38",Bikes,Mountain Bikes,74432.0995,740674.2159,0.010104684446847185,Tier 1 - High-quality growth
+Product,354,"Mountain-200 Silver, 42",Bikes,Mountain Bikes,74277.5145,744991.0545,-0.0008035967305569705,Tier 2 - Margin-dilutive growth
+Product,356,"Mountain-200 Silver, 46",Bikes,Mountain Bikes,70426.6736,714311.672,-0.001828553078770621,Tier 2 - Margin-dilutive growth
+Product,362,"Mountain-200 Black, 46",Bikes,Mountain Bikes,58109.4867,591109.9067,-0.002041081725686451,Tier 2 - Margin-dilutive growth
+Product,308,"HL Mountain Frame - Silver, 38",Components,Mountain Frames,27591.6635,246354.2637,0.0,Tier 1 - High-quality growth
+Product,421,HL Mountain Rear Wheel,Components,Wheels,26316.4098,102299.6803,-0.0025328432910810424,Tier 2 - Margin-dilutive growth
+Product,297,"HL Mountain Frame - Black, 42",Components,Mountain Frames,26053.6944,232621.978,0.0,Tier 1 - High-quality growth
+Product,365,"Mountain-300 Black, 40",Bikes,Mountain Bikes,24831.2261,330033.2801,0.012162516327331214,Tier 1 - High-quality growth
