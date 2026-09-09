@@ -2,7 +2,7 @@ import re
 import csv
 import os
 
-base_dir = r"C:\Users\dell\OneDrive\Desktop\project_3_financial_performance"
+base_dir = r"C:\Users\dell\OneDrive\Desktop\financial_performance"
 
 tables = {
     "DimDate": r"data\raw\DimDate.csv",

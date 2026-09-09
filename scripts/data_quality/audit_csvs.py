@@ -1,7 +1,7 @@
 import csv
 import os
 
-base_dir = r"C:\Users\dell\OneDrive\Desktop\project_3_financial_performance"
+base_dir = r"C:\Users\dell\OneDrive\Desktop\financial_performance"
 raw_dir = os.path.join(base_dir, "data", "raw")
 staging_dir = os.path.join(base_dir, "data", "staging")
 

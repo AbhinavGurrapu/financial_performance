@@ -7,13 +7,13 @@
 \echo '==================================================='
 \echo 'STEP 1: RESETTING AND CREATING TABLES'
 \echo '==================================================='
-\i 'C:/Users/dell/OneDrive/Desktop/project_3_financial_performance/sql/create_tables.sql'
+\i 'C:/Users/dell/OneDrive/Desktop/financial_performance/sql/create_tables.sql'
 
 \echo ''
 \echo '==================================================='
 \echo 'STEP 2: LOADING DATA FILES'
 \echo '==================================================='
-\i 'C:/Users/dell/OneDrive/Desktop/project_3_financial_performance/sql/load_data.sql'
+\i 'C:/Users/dell/OneDrive/Desktop/financial_performance/sql/load_data.sql'
 
 \echo ''
 \echo '==================================================='

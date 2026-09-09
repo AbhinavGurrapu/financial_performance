@@ -3,8 +3,8 @@
 **Project:** Financial Performance & Profitability Diagnostic Analytics  
 **Database Engine:** PostgreSQL 18  
 **Source Dataset:** Official Microsoft AdventureWorks DW Azure Synapse / SQL DW CSV Distribution  
-**Location of Untouched Raw Files:** `C:\Users\dell\OneDrive\Desktop\project_3_financial_performance\data\raw\`  
-**Temporary Staging Artifact:** `C:\Users\dell\OneDrive\Desktop\project_3_financial_performance\data\staging\DimProduct_sanitized.csv`
+**Location of Untouched Raw Files:** `C:\Users\dell\OneDrive\Desktop\financial_performance\data\raw\`  
+**Temporary Staging Artifact:** `C:\Users\dell\OneDrive\Desktop\financial_performance\data\staging\DimProduct_sanitized.csv`
 
 ---
 
@@ -15,7 +15,7 @@
 - **User:** `postgres`
 - **Client Executable:** `C:\Program Files\PostgreSQL\18\bin\psql.exe`
 - **Authentication:** Standard interactive prompt via client terminal (no credentials stored on disk or in persistent environment variables).
-- **Master Orchestrator:** `C:\Users\dell\OneDrive\Desktop\project_3_financial_performance\sql\master_load_and_verify.sql`
+- **Master Orchestrator:** `C:\Users\dell\OneDrive\Desktop\financial_performance\sql\master_load_and_verify.sql`
 
 ---
 

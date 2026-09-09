@@ -1,7 +1,7 @@
 import os
 
-raw_file = r"C:\Users\dell\OneDrive\Desktop\project_3_financial_performance\data\raw\DimProduct.csv"
-staging_dir = r"C:\Users\dell\OneDrive\Desktop\project_3_financial_performance\data\staging"
+raw_file = r"C:\Users\dell\OneDrive\Desktop\financial_performance\data\raw\DimProduct.csv"
+staging_dir = r"C:\Users\dell\OneDrive\Desktop\financial_performance\data\staging"
 os.makedirs(staging_dir, exist_ok=True)
 staging_file = os.path.join(staging_dir, "DimProduct_sanitized.csv")
 

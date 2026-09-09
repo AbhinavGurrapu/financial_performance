@@ -10,7 +10,7 @@ csv_files = [
     'DimDate.csv'
 ]
 
-raw_dir = r"C:\Users\dell\OneDrive\Desktop\project_3_financial_performance\data\raw"
+raw_dir = r"C:\Users\dell\OneDrive\Desktop\financial_performance\data\raw"
 
 for fname in csv_files:
     fpath = os.path.join(raw_dir, fname)

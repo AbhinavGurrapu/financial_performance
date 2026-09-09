@@ -1,9 +1,9 @@
 import re
 
-with open(r"C:\Users\dell\OneDrive\Desktop\project_3_financial_performance\data\raw\instawdbdw.sql", "r", encoding="utf-8", errors="ignore") as f:
+with open(r"C:\Users\dell\OneDrive\Desktop\financial_performance\data\raw\instawdbdw.sql", "r", encoding="utf-8", errors="ignore") as f:
     sql_text = f.read()
 
-with open(r"C:\Users\dell\OneDrive\Desktop\project_3_financial_performance\sql\create_tables.sql", "r", encoding="utf-8", errors="ignore") as f:
+with open(r"C:\Users\dell\OneDrive\Desktop\financial_performance\sql\create_tables.sql", "r", encoding="utf-8", errors="ignore") as f:
     pg_text = f.read()
 
 tables = ['DimDate', 'DimProductCategory', 'DimProductSubcategory', 'DimProduct', 'DimReseller', 'DimSalesTerritory', 'FactResellerSales']

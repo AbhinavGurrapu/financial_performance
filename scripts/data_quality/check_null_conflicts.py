@@ -1,7 +1,7 @@
 import os
 
-raw_dir = r"C:\Users\dell\OneDrive\Desktop\project_3_financial_performance\data\raw"
-staging_file = r"C:\Users\dell\OneDrive\Desktop\project_3_financial_performance\data\staging\DimProduct_sanitized.csv"
+raw_dir = r"C:\Users\dell\OneDrive\Desktop\financial_performance\data\raw"
+staging_file = r"C:\Users\dell\OneDrive\Desktop\financial_performance\data\staging\DimProduct_sanitized.csv"
 
 # Let's inspect each table and see which columns actually have empty strings (NULLs) in the CSVs
 # and compare with what's defined as NOT NULL in create_tables.sql!
@@ -17,7 +17,7 @@ files = {
 }
 
 # Read create_tables.sql to get our NOT NULL columns
-with open(r"C:\Users\dell\OneDrive\Desktop\project_3_financial_performance\sql\create_tables.sql", "r", encoding="utf-8") as f:
+with open(r"C:\Users\dell\OneDrive\Desktop\financial_performance\sql\create_tables.sql", "r", encoding="utf-8") as f:
     sql = f.read()
 
 import re

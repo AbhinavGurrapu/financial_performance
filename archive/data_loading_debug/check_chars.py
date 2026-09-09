@@ -1,5 +1,5 @@
 import sys, os
-base_dir = r'C:\Users\dell\OneDrive\Desktop\project_3_financial_performance'
+base_dir = r'C:\Users\dell\OneDrive\Desktop\financial_performance'
 files = [
     r'data\raw\DimDate.csv',
     r'data\raw\DimProductCategory.csv',

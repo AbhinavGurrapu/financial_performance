@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import os
 
-base_dir = r"C:\Users\dell\OneDrive\Desktop\project_3_financial_performance"
+base_dir = r"C:\Users\dell\OneDrive\Desktop\financial_performance"
 
 # Load fact data
 df_fact = pd.read_csv(os.path.join(base_dir, r"data\raw\FactResellerSales.csv"), sep='|', header=None, names=[

@@ -29,3 +29,6 @@ Thumbs.db
 *.bak
 scratch/
 tmp/
+
+# Raw Data & Large Files
+data/raw/

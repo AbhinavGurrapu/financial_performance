@@ -1,4 +1,4 @@
-path = r"C:\Users\dell\OneDrive\Desktop\project_3_financial_performance\data\raw\DimProduct.csv"
+path = r"C:\Users\dell\OneDrive\Desktop\financial_performance\data\raw\DimProduct.csv"
 
 with open(path, "rb") as f:
     content = f.read()
